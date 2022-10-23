@@ -16,3 +16,9 @@
 * 로또가 당첨번호와 일치하는 갯수를 반환한다.
 * 수익률을 계산한다.
 * 수동으로 로또 번호를 입력할 수 있다
+
+## 리뷰
+* [1단계](https://github.com/next-step/java-lotto/pull/2576)
+* [2단계](https://github.com/next-step/java-lotto/pull/2594)
+* [3단계](https://github.com/next-step/java-lotto/pull/2624)
+* [4단계](https://github.com/next-step/java-lotto/pull/2656)
